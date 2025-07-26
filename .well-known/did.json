@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:kapilv-cdpg.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:kapilv-cdpg.github.io#12758c59a2bc236710f7cd4ca89dc40eddda860bf89fd02441e5bf90e3b4fd78",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:kapilv-cdpg.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "VUd_PZtkoZGWezzykhsE0cN37h-9HKPp4tEKmZyC54s=",
+        "y": "VeSmW_q7eNr9nROVmfF6bmA7JS14EsKW1eUGmA4mwlU=",
+        "kid": "12758c59a2bc236710f7cd4ca89dc40eddda860bf89fd02441e5bf90e3b4fd78",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
